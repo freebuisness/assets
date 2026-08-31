@@ -7805,5 +7805,49 @@
     "url": "{HTML_URL}/860.html",  
     "author": "andyl4nd",
     "authorLink": "https://andyl4nd.itch.io/endacopiademo"
+  },
+  {
+    "id": 861,
+    "name": "Friday Night Funkin': VS. Mario Ultra Rebooted",
+    "cover": "{COVER_URL}/861.png",
+    "url": "{HTML_URL}/861.html",  
+    "author": "Crappy Productions",
+    "authorLink": "https://gamejolt.com/games/FNFVSMUR-Legacy-Edition/759013",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 862,
+    "name": "Friday Night Funkin': VS. Henry Stickmin V4",
+    "cover": "{COVER_URL}/862.png",
+    "url": "{HTML_URL}/862.html",  
+    "author": "SpiderThiago",
+    "authorLink": "https://gamebanana.com/mods/320504",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 863,
+    "name": "Friday Night Funkin': VS. Super Mario Bros. Funk Mix DX",
+    "cover": "{COVER_URL}/863.png",
+    "url": "{HTML_URL}/863.html",  
+    "author": "Traveler_Snak",
+    "authorLink": "https://gamebanana.com/mods/346928",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 864,
+    "name": "Friday Night Funkin': VS. Seek's Cool Deltarune",
+    "cover": "{COVER_URL}/864.png",
+    "url": "{HTML_URL}/864.html",  
+    "author": "seeksstuff",
+    "authorLink": "https://gamebanana.com/mods/377938",
+    "special": [
+      "fnf"
+    ]
   }
 ]
