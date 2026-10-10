@@ -9,7 +9,7 @@
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
-    "url": "{HTML_URL}/0.html",
+    "url": "{HTML_URL}/0-fix.html",
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com"
   },
@@ -105,7 +105,7 @@
     "id": 13,
     "name": "Attack Hole",
     "cover": "{COVER_URL}/13.png",
-    "url": "{HTML_URL}/13.html",
+    "url": "{HTML_URL}/13-fix.html",
     "author": "Homa Games",
     "authorLink": "https://www.homagames.com"
   },
@@ -113,7 +113,7 @@
     "id": 14,
     "name": "Bridge Race",
     "cover": "{COVER_URL}/14.png",
-    "url": "{HTML_URL}/14.html",
+    "url": "{HTML_URL}/14-fix.html",
     "author": "QubicGames",
     "authorLink": "https://qubicgames.com"
   },
@@ -121,7 +121,7 @@
     "id": 15,
     "name": "Color Water Sort 3D",
     "cover": "{COVER_URL}/15.png",
-    "url": "{HTML_URL}/15.html",
+    "url": "{HTML_URL}/15-fix.html",
     "author": "Tapnation",
     "authorLink": "https://www.tap-nation.io"
   },
@@ -129,7 +129,7 @@
     "id": 16,
     "name": "Hide N Seek",
     "cover": "{COVER_URL}/16.png",
-    "url": "{HTML_URL}/16.html",
+    "url": "{HTML_URL}/16-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/developer?id=Supersonic+Studios+LTD"
   },
@@ -137,7 +137,7 @@
     "id": 17,
     "name": "Magic Tiles 3",
     "cover": "{COVER_URL}/17.png",
-    "url": "{HTML_URL}/17.html",
+    "url": "{HTML_URL}/17-fix.html",
     "author": "AmaNotes",
     "authorLink": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
   },
@@ -145,7 +145,7 @@
     "id": 18,
     "name": "Stacky Dash",
     "cover": "{COVER_URL}/18.png",
-    "url": "{HTML_URL}/18.html",
+    "url": "{HTML_URL}/18-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Born2Play.StackyDash"
   },
@@ -153,7 +153,7 @@
     "id": 19,
     "name": "Supreme Duelist",
     "cover": "{COVER_URL}/19.png",
-    "url": "{HTML_URL}/19.html",
+    "url": "{HTML_URL}/19-fix.html",
     "author": "Neron's Brother",
     "authorLink": "https://neronsbrother.com"
   },
@@ -161,7 +161,7 @@
     "id": 20,
     "name": "Tall Man Run",
     "cover": "{COVER_URL}/20.png",
-    "url": "{HTML_URL}/20a.html",
+    "url": "{HTML_URL}/20-fix2.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
   },
@@ -169,7 +169,7 @@
     "id": 21,
     "name": "Turbo Stars",
     "cover": "{COVER_URL}/21.png",
-    "url": "{HTML_URL}/21.html",
+    "url": "{HTML_URL}/21-fix.html",
     "author": "https://play.google.com/store/apps/details?id=com.turbo.stars",
     "authorLink": "SayGames"
   },
@@ -177,7 +177,7 @@
     "id": 22,
     "name": "Mob Control HTML5",
     "cover": "{COVER_URL}/22.png",
-    "url": "{HTML_URL}/22.html",
+    "url": "{HTML_URL}/22-fix.html",
     "author": "Voodoo",
     "authorLink": "https://voodoo.io"
   },
@@ -185,7 +185,7 @@
     "id": 23,
     "name": "Pou",
     "cover": "{COVER_URL}/23.png",
-    "url": "{HTML_URL}/23.html",
+    "url": "{HTML_URL}/23-fix.html",
     "author": "Zakeh",
     "authorLink": "https://play.google.com/store/apps/details?id=me.pou.app"
   },
@@ -193,7 +193,7 @@
     "id": 24,
     "name": "Crossy Road",
     "cover": "{COVER_URL}/24.png",
-    "url": "{HTML_URL}/24.html",
+    "url": "{HTML_URL}/24-fix.html",
     "author": "Hipster Whale",
     "authorLink": "https://www.hipsterwhale.com"
   },
@@ -201,7 +201,7 @@
     "id": 25,
     "name": "Basket Battle",
     "cover": "{COVER_URL}/25.png",
-    "url": "{HTML_URL}/25.html",
+    "url": "{HTML_URL}/25-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.noorgames.basketbattle"
   },
@@ -209,7 +209,7 @@
     "id": 26,
     "name": "Amaze",
     "cover": "{COVER_URL}/26.png",
-    "url": "{HTML_URL}/26.html",
+    "url": "{HTML_URL}/26-fix.html",
     "author": "CrazyLabs",
     "authorLink": "https://play.google.com/store/apps/details?id=com.crazylabs.amaze.game"
   },
@@ -225,7 +225,7 @@
     "id": 28,
     "name": "Basketball Frvr",
     "cover": "{COVER_URL}/28.png",
-    "url": "{HTML_URL}/28.html",
+    "url": "{HTML_URL}/28-fix.html",
     "author": "FRVR",
     "authorLink": "https://play.google.com/store/apps/details?id=com.frvr.basketball"
   },
@@ -233,7 +233,7 @@
     "id": 29,
     "name": "Bazooka Boy",
     "cover": "{COVER_URL}/29.png",
-    "url": "{HTML_URL}/29.html",
+    "url": "{HTML_URL}/29-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Lightneer.BazookaBoy"
   },
@@ -241,7 +241,7 @@
     "id": 30,
     "name": "Bottle Jump 3D",
     "cover": "{COVER_URL}/30.png",
-    "url": "{HTML_URL}/30.html",
+    "url": "{HTML_URL}/30-fix.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=com.games.bottle"
   },
@@ -249,7 +249,7 @@
     "id": 31,
     "name": "Color Match",
     "cover": "{COVER_URL}/31.png",
-    "url": "{HTML_URL}/31.html",
+    "url": "{HTML_URL}/31-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/developer?id=Supersonic+Studios+LTD&hl=en_US"
   },
@@ -257,7 +257,7 @@
     "id": 32,
     "name": "Dig Deep",
     "cover": "{COVER_URL}/32.png",
-    "url": "{HTML_URL}/32.html",
+    "url": "{HTML_URL}/32-fix.html",
     "author": "CrazyLabs LTD",
     "authorLink": "https://play.google.com/store/apps/dev?id=6443412597262225303&hl=en_US"
   },
@@ -730,7 +730,7 @@
     "id": 86,
     "name": "Draw Climber",
     "cover": "{COVER_URL}/86.png",
-    "url": "{HTML_URL}/86.html",
+    "url": "{HTML_URL}/86-fix.html",
     "author": "VOODOO",
     "authorLink": "https://voodoo.io"
   },
@@ -1026,7 +1026,7 @@
     "id": 118,
     "name": "Solar Smash",
     "cover": "{COVER_URL}/118.png",
-    "url": "{HTML_URL}/118.html",
+    "url": "{HTML_URL}/118-fix.html",
     "author": "Paradyme Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.solarsmash&hl=en_US"
   },
@@ -1090,7 +1090,7 @@
     "id": 127,
     "name": "Fashion Battle",
     "cover": "{COVER_URL}/127.png",
-    "url": "{HTML_URL}/127.html",
+    "url": "{HTML_URL}/127-fix.html",
     "author": "Apps Mobile Games",
     "authorLink": "https://play.google.com/store/apps/dev?id=4672672872255695418&hl=en_US"
   },
@@ -1098,7 +1098,7 @@
     "id": 128,
     "name": "Slice it All",
     "cover": "{COVER_URL}/128.png",
-    "url": "{HTML_URL}/128.html",
+    "url": "{HTML_URL}/128-fix.html",
     "author": "VOODOO",
     "authorLink": "https://play.google.com/store/apps/developer?id=VOODOO&hl=en_US"
   },
@@ -1122,7 +1122,7 @@
     "id": 146,
     "name": "8 Ball Classic",
     "cover": "{COVER_URL}/146.png",
-    "url": "{HTML_URL}/146.html",
+    "url": "{HTML_URL}/146-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.eightballbilliardsclassic"
   },
@@ -1130,7 +1130,7 @@
     "id": 147,
     "name": "Angry Birds Showdown",
     "cover": "{COVER_URL}/147.png",
-    "url": "{HTML_URL}/147.html",
+    "url": "{HTML_URL}/147-fix.html",
     "author": "Rovio Entertainment",
     "authorLink": "https://www.rovio.com"
   },
@@ -1138,7 +1138,7 @@
     "id": 148,
     "name": "Archery World Tour",
     "cover": "{COVER_URL}/148.png",
-    "url": "{HTML_URL}/148.html",
+    "url": "{HTML_URL}/148-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.archeryworldtour"
   },
@@ -1146,7 +1146,7 @@
     "id": 149,
     "name": "Ball Blast",
     "cover": "{COVER_URL}/149.png",
-    "url": "{HTML_URL}/149.html",
+    "url": "{HTML_URL}/149-fix.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast"
   },
@@ -1154,7 +1154,7 @@
     "id": 150,
     "name": "Cannon Balls 3D",
     "cover": "{COVER_URL}/150.png",
-    "url": "{HTML_URL}/150.html",
+    "url": "{HTML_URL}/150-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.cannonballs3d"
   },
@@ -1162,7 +1162,7 @@
     "id": 151,
     "name": "Chess Classic",
     "cover": "{COVER_URL}/151.png",
-    "url": "{HTML_URL}/151.html",
+    "url": "{HTML_URL}/151-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.chessclassic"
   },
@@ -1170,7 +1170,7 @@
     "id": 152,
     "name": "Draw the Line",
     "cover": "{COVER_URL}/152.png",
-    "url": "{HTML_URL}/152.html",
+    "url": "{HTML_URL}/152-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.friendsgamesincubator.drawtheline"
   },
@@ -1178,7 +1178,7 @@
     "id": 153,
     "name": "Flappy Dunk",
     "cover": "{COVER_URL}/153.png",
-    "url": "{HTML_URL}/153.html",
+    "url": "{HTML_URL}/153-fix.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.acidcousins.fdunk"
   },
@@ -1186,7 +1186,7 @@
     "id": 154,
     "name": "Fork n Sausage",
     "cover": "{COVER_URL}/154.png",
-    "url": "{HTML_URL}/154.html",
+    "url": "{HTML_URL}/154-fix.html",
     "author": "SayGames",
     "authorLink": "https://play.google.com/store/apps/details?id=com.kadka.forknsausage"
   },
@@ -1194,7 +1194,7 @@
     "id": 155,
     "name": "Guess Their Answer",
     "cover": "{COVER_URL}/155.png",
-    "url": "{HTML_URL}/155.html",
+    "url": "{HTML_URL}/155-fix.html",
     "author": "TapNation",
     "authorLink": "https://play.google.com/store/apps/details?id=com.qoni.guesstheiranswer"
   },
@@ -1202,7 +1202,7 @@
     "id": 156,
     "name": "Harvest.io",
     "cover": "{COVER_URL}/156.png",
-    "url": "{HTML_URL}/156.html",
+    "url": "{HTML_URL}/156-fix.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=com.harvest.io"
   },
@@ -1210,7 +1210,7 @@
     "id": 157,
     "name": "Hill Climb Racing Lite",
     "cover": "{COVER_URL}/157.png",
-    "url": "{HTML_URL}/157.html",
+    "url": "{HTML_URL}/157-fix.html",
     "author": "Fingersoft",
     "authorLink": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb"
   },
@@ -1218,7 +1218,7 @@
     "id": 158,
     "name": "Pac-Man Superfast",
     "cover": "{COVER_URL}/158.png",
-    "url": "{HTML_URL}/158.html",
+    "url": "{HTML_URL}/158-fix.html",
     "author": "RedFox Games",
     "authorLink": "https://www.playredfox.com"
   },
@@ -1226,7 +1226,7 @@
     "id": 159,
     "name": "Parking Rush",
     "cover": "{COVER_URL}/159.png",
-    "url": "{HTML_URL}/159.html",
+    "url": "{HTML_URL}/159-fix.html",
     "author": "Nine&Nine",
     "authorLink": "https://play.google.com/store/apps/details?id=com.tianninenine.parkingrush"
   },
@@ -1234,7 +1234,7 @@
     "id": 160,
     "name": "Race Master 3D",
     "cover": "{COVER_URL}/160.png",
-    "url": "{HTML_URL}/160.html",
+    "url": "{HTML_URL}/160-fix.html",
     "author": "Beresnev Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.easygames.race"
   },
@@ -1242,7 +1242,7 @@
     "id": 161,
     "name": "State.io",
     "cover": "{COVER_URL}/161.png",
-    "url": "{HTML_URL}/161.html",
+    "url": "{HTML_URL}/161-fix.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=io.state.fight"
   },
@@ -1250,7 +1250,7 @@
     "id": 162,
     "name": "Tower Crash 3D",
     "cover": "{COVER_URL}/162.png",
-    "url": "{HTML_URL}/162.html",
+    "url": "{HTML_URL}/162-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.towercrash3d"
   },
@@ -1258,7 +1258,7 @@
     "id": 163,
     "name": "Trivia Crack",
     "cover": "{COVER_URL}/163.png",
-    "url": "{HTML_URL}/163.html",
+    "url": "{HTML_URL}/163-fix.html",
     "author": "etermax",
     "authorLink": "https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite"
   },
@@ -1616,7 +1616,7 @@
     "id": 202,
     "name": "Carrom Clash",
     "cover": "{COVER_URL}/202.png",
-    "url": "{HTML_URL}/202.html",
+    "url": "{HTML_URL}/202-fix.html",
     "author": "GameSnacks",
     "authorLink": "https://gamesnacks.com/games/carromclash"
   },
@@ -1660,7 +1660,7 @@
     "id": 207,
     "name": "Snowbattle.io",
     "cover": "{COVER_URL}/207.png",
-    "url": "{HTML_URL}/207-f.html",
+    "url": "{HTML_URL}/207-fix2.html",
     "author": "Royalec/Tokyo",
     "authorLink": "https://google.com/search?q=Tokyo+Royalec"
   },
@@ -1676,7 +1676,7 @@
     "id": 209,
     "name": "Draw the Hill",
     "cover": "{COVER_URL}/209.png",
-    "url": "{HTML_URL}/209-f.html",
+    "url": "{HTML_URL}/209-fix2.html",
     "author": "Stelennnn",
     "authorLink": "https://play.google.com/store/apps/details?id=xyz.gameshtml5.drawathehill&hl=en_US"
   },
@@ -1692,7 +1692,7 @@
     "id": 211,
     "name": "Death Run 3D",
     "cover": "{COVER_URL}/211.png",
-    "url": "{HTML_URL}/211-f.html",
+    "url": "{HTML_URL}/211-fix2.html",
     "author": "kevin.wang",
     "authorLink": "https://play.google.com/store/apps/details?id=com.kevin.deathrun3d&hl=en_US"
   },
@@ -2153,7 +2153,7 @@
     "id": 255,
     "name": "Crazy Chicken 3D",
     "cover": "{COVER_URL}/255.png",
-    "url": "{HTML_URL}/255.html",
+    "url": "{HTML_URL}/255-fix.html",
     "author": "Teasle",
     "authorLink": "https://teasle.itch.io/crazychicken3d"
   },
@@ -2707,7 +2707,7 @@
     "id": 319,
     "name": "Build a Queen",
     "cover": "{COVER_URL}/319.png",
-    "url": "{HTML_URL}/319.html",
+    "url": "{HTML_URL}/319-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Polystation.BuildABabe"
   },
@@ -2715,7 +2715,7 @@
     "id": 320,
     "name": "3D Bowling",
     "cover": "{COVER_URL}/320.png",
-    "url": "{HTML_URL}/320.html",
+    "url": "{HTML_URL}/320-fix.html",
     "author": "Italic Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.threed.bowling"
   },
@@ -2723,7 +2723,7 @@
     "id": 321,
     "name": "Room Sort",
     "cover": "{COVER_URL}/321.png",
-    "url": "{HTML_URL}/321.html",
+    "url": "{HTML_URL}/321-fix.html",
     "author": "Gamincat",
     "authorLink": "https://play.google.com/store/apps/details?id=com.gamincat.roomsort"
   },
@@ -2731,7 +2731,7 @@
     "id": 322,
     "name": "Sushi Roll",
     "cover": "{COVER_URL}/322.png",
-    "url": "{HTML_URL}/322.html",
+    "url": "{HTML_URL}/322-fix.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.suhsiroll"
   },
@@ -2739,7 +2739,7 @@
     "id": 323,
     "name": "Find the Alien",
     "cover": "{COVER_URL}/323.png",
-    "url": "{HTML_URL}/323.html",
+    "url": "{HTML_URL}/323-fix.html",
     "author": "MOONEE PUBLISHING LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=net.wyvernware.whosthealien"
   },
@@ -2747,7 +2747,7 @@
     "id": 324,
     "name": "Maze Speedrun",
     "cover": "{COVER_URL}/324.png",
-    "url": "{HTML_URL}/324.html",
+    "url": "{HTML_URL}/324-fix.html",
     "author": "Raval Matic",
     "authorLink": "https://www.ravalmatic.com"
   },
@@ -2755,7 +2755,7 @@
     "id": 325,
     "name": "Kitchen Bazar",
     "cover": "{COVER_URL}/325.png",
-    "url": "{HTML_URL}/325.html",
+    "url": "{HTML_URL}/325-fix.html",
     "author": "Gameloft",
     "authorLink": "https://www.gameloft.com"
   },
@@ -2763,7 +2763,7 @@
     "id": 326,
     "name": "Pokey Ball",
     "cover": "{COVER_URL}/326.png",
-    "url": "{HTML_URL}/326.html",
+    "url": "{HTML_URL}/326-fix.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.lawson.poke"
   },
@@ -2779,7 +2779,7 @@
     "id": 328,
     "name": "Om Nom Run",
     "cover": "{COVER_URL}/328.png",
-    "url": "{HTML_URL}/328.html",
+    "url": "{HTML_URL}/328-fix.html",
     "author": "ZeptoLab",
     "authorLink": "https://play.google.com/store/apps/details?id=com.zeptolab.omnomrun.google"
   },
@@ -2795,7 +2795,7 @@
     "id": 330,
     "name": "BitPlanes",
     "cover": "{COVER_URL}/330.png",
-    "url": "{HTML_URL}/330.html",
+    "url": "{HTML_URL}/330-fix.html",
     "author": "Anton Medvedev",
     "authorLink": "https://medv.io"
   },
@@ -3122,7 +3122,7 @@
     "id": 367,
     "name": "Parking Fury 3D",
     "cover": "{COVER_URL}/367.png",
-    "url": "{HTML_URL}/367.html",
+    "url": "{HTML_URL}/367-fix.html",
     "author": "Brain Software",
     "authorLink": "https://poki.com/en/g/parking-fury-3d"
   },
@@ -3679,7 +3679,7 @@
     "id": 437,
     "name": "Bouncemasters",
     "cover": "{COVER_URL}/437.png",
-    "url": "{HTML_URL}/437.html",
+    "url": "{HTML_URL}/437-fix.html",
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com"
   },
@@ -3774,7 +3774,7 @@
     "id": 448,
     "name": "Aquapark.io",
     "cover": "{COVER_URL}/448.png",
-    "url": "{HTML_URL}/448.html",
+    "url": "{HTML_URL}/448-fix.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.cassette.aquapark"
   },
@@ -3782,7 +3782,7 @@
     "id": 449,
     "name": "City Smash",
     "cover": "{COVER_URL}/449.png",
-    "url": "{HTML_URL}/449.html",
+    "url": "{HTML_URL}/449-fix.html",
     "author": "Paradyme Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.citysmash"
   },
@@ -5735,7 +5735,7 @@
     "id": 661,
     "name": "Royal Towers: Medieval TD",
     "cover": "{COVER_URL}/661.png",
-    "url": "{HTML_URL}/661.html",
+    "url": "{HTML_URL}/661-fix.html",
     "author": "Superplus Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.superplusgames.tower"
   },
@@ -5743,7 +5743,7 @@
     "id": 662,
     "name": "Going Balls",
     "cover": "{COVER_URL}/662.png",
-    "url": "{HTML_URL}/662.html",
+    "url": "{HTML_URL}/662-fix.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
   },
@@ -5751,7 +5751,7 @@
     "id": 663,
     "name": "3D Bolt Master",
     "cover": "{COVER_URL}/663.png",
-    "url": "{HTML_URL}/663.html",
+    "url": "{HTML_URL}/663-fix.html",
     "author": "Joymaster Puzzle Game Studio",
     "authorLink": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle"
   },
@@ -5759,7 +5759,7 @@
     "id": 664,
     "name": "Tall.io",
     "cover": "{COVER_URL}/664.png",
-    "url": "{HTML_URL}/664.html",
+    "url": "{HTML_URL}/664-fix.html",
     "author": "Playgama",
     "authorLink": "https://playgama.com/"
   },
@@ -5767,7 +5767,7 @@
     "id": 665,
     "name": "Match Triple 3D",
     "cover": "{COVER_URL}/665.png",
-    "url": "{HTML_URL}/665.html",
+    "url": "{HTML_URL}/665-fix.html",
     "author": "LIHUHU PTE. LTD.",
     "authorLink": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=en_US"
   },
@@ -5775,7 +5775,7 @@
     "id": 666,
     "name": "Stick War: Legacy",
     "cover": "{COVER_URL}/666.png",
-    "url": "{HTML_URL}/666.html",
+    "url": "{HTML_URL}/666-fix.html",
     "author": "Max Games Studios",
     "featured": true,
     "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA"
@@ -5969,7 +5969,7 @@
     "id": 684,
     "name": "Kirby Squeak Squad",
     "cover": "{COVER_URL}/684.png",
-    "url": "{HTML_URL}/684.html",
+    "url": "{HTML_URL}/684-fix.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
     "special": [
@@ -7126,7 +7126,7 @@
     "id": 798,
     "name": "Hungry Lamu",
     "cover": "{COVER_URL}/798.png",
-    "url": "{HTML_URL}/798.html", 
+    "url": "{HTML_URL}/798-fix.html", 
     "author": "kulurc / kulu",
     "authorLink": "https://kulurc.itch.io/hungry-lamu"
   },
